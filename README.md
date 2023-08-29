@@ -38,7 +38,9 @@ Python (Cursando)
 HTML e CSS (Cursando)
 Pacote Office (Concluído)
 Power Point (Concluído)
+
 Habilidades e Conhecimentos
+
 Desenvolvimento Pessoal
 Relações interpessoais
 Formação de Equipes
@@ -58,18 +60,18 @@ Experiências Profissionais
 
 CONSULTORA COMERCIAL | MULTINVEST | 2018-2019
 
-Controle de processos administrativos
-Gestão de documentos
+Controle de processos administrativos;
+Gestão de documentos;
 Atendimento ao cliente
 
 CONSULTORA COMERCIAL | FORTE SOL | 2019-2021
 
-Prospecção e abordagem de novos clientes
-Acompanhamento pós-venda
+Prospecção e abordagem de novos clientes;
+Acompanhamento pós-venda;
 Identificação de oportunidades de mercado
 
 CONSULTORA E ASSISTENTE| THEUS INVESTIMENTOS | 2021-2022
 
-Prospecção e abordagem de clientes
-Acompanhamento pós-venda
+Prospecção e abordagem de clientes;
+Acompanhamento pós-venda;
 Identificação de novos segmentos
