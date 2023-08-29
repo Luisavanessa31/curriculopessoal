@@ -15,9 +15,11 @@ Jacarecanga, Fortaleza-Ce | (85)99743-5381 | luisavanessa27@gmail.com
 LinkedIn / LUISA VANESSA EVANGELISTA
 
 Objetivo
+
 Busco um estágio na área tecnológica para aplicar meus conhecimentos em desenvolvimento de sistemas e aprender com uma equipe qualificada.
 
 Resumo Profissional
+
 Experiência em atendimento ao público, planejamento, e análise de desempenho. Paixão por tecnologia e foco em IA, nuvem e Python.
 
 Educação
